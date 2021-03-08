@@ -1,0 +1,4 @@
+name: ex8
+recipe: lamp
+config:
+  webroot: .
